@@ -1,5 +1,6 @@
 body {
     font-family: "Open Sans", sans-serif ;
+    font-size: smaller;
 }
 
 
@@ -115,4 +116,8 @@ a {
 
 .foot-elm2:hover {
     text-decoration: underline;
+}
+
+.left {
+    margin-right: 970px;
 }
